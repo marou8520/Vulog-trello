@@ -1,0 +1,43 @@
+.card {
+    padding: 20px;
+    background-color: white;
+    border-radius: 6px;
+    height: fit-content;
+    width: 200px;
+    margin: 0 20px 20px 0px;
+}
+
+.card-title {
+    border-bottom: 1px solid #dad9d9;
+    padding-bottom: 10px;
+    color: #343434;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.add-task-button {
+    width: 178px;
+    display: flex;
+    outline: none;
+    color: #4A90E2;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    background-color: white;
+    text-align: left;
+    border: 1px #4A90E2 dashed;
+    padding: 10px;
+}
+
+
+.add-button-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.add-button-label {
+    flex: 1;
+    color: #4A90E2;
+    text-align: left;
+}

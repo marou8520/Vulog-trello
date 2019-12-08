@@ -1,0 +1,14 @@
+.home {
+  background-color: #f1f1f1;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.cards {
+  background-color: #f1f1f1;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
